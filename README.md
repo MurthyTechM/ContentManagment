@@ -1,4 +1,4 @@
-# Content Managment Application
+# Content Managment Application [![Build Status](http://52.91.55.80:8080/buildStatus/icon?job=CM_DEV&build=4)](http://52.91.55.80:8080/view/CM_Dashboard/job/CM_DEV/4/)
 
 This is an ContentManagment application where users can upload and store their documents.
 
